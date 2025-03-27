@@ -4,21 +4,7 @@
 
 ###
 
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
-</div>
-
-###
-
-<h1 align="center">hey there 👋</h1>
+<h1 align="center">👋 ¡Hi! I'm Jonathan Domínguez</h1>
 
 ###
 
@@ -26,7 +12,7 @@
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<p align="left">📍 Chihuahua, Chih., México<br><br>- Recently graduated from Universidad Tecnológica de Chihuahua with a degree in Software Development and Management Engineering.<br>- 💻 Passionate about mobile and web development, always looking to improve my skills and learn new technologies.<br>- 🚀 Currently working on an inventory management app with Flutter and exploring new ideas in cross-platform development.<br>- 🎮 I enjoy playing video games, listening to music, and spending time with friends in my free time.</p>
 
 ###
 
