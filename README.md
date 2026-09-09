@@ -50,7 +50,7 @@
   <img width="12" />
 
   <!-- SQL Server -->
-  <img src="https://cdn.simpleicons.org/microsoftsqlserver" height="40" alt="sql server logo" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.17.0/icons/microsoftsqlserver/microsoftsqlserver-original.svg" height="40" alt="sql server logo" />
   <img width="12" />
 
   <!-- Git -->
@@ -58,5 +58,5 @@
   <img width="12" />
 
   <!-- Slack -->
-  <img src="https://cdn.simpleicons.org/slack" height="40" alt="slack logo" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.17.0/icons/slack/slack-original.svg" height="40" alt="slack logo" />
 </div>
